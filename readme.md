@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-<img src="./prints/tela.png" style="height: 100px; width:100px;"/>
+<img src="./prints/tela.png" style="height: 400px; width:600px;"/>
 
 ## Funcionalidades
 
